@@ -1,0 +1,11 @@
+<library path="lib/libbobble_controllers">
+
+  <class name="bobble_controllers/BalanceSimController"
+    type="bobble_controllers::BalanceSimController"
+    base_class_type="controller_interface::ControllerBase">
+    <description>
+      The BalanceSimController yatta yatta TODO docs once I know this works.
+    </description>
+  </class>
+
+</library>
